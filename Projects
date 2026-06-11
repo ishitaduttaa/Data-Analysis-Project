@@ -1,0 +1,26 @@
+# Data Analysis Project
+
+## Overview
+This repository contains data analysis projects focused on extracting meaningful insights from datasets using data cleaning, transformation, visualization, and reporting techniques.
+
+## Objectives
+- Perform exploratory data analysis (EDA)
+- Clean and preprocess datasets
+- Identify patterns and trends
+- Create interactive dashboards
+- Generate data-driven insights
+
+## Tools Used
+- Power BI
+- Microsoft Excel
+- CSV Datasets
+- DAX (Data Analysis Expressions)
+
+## Project Workflow
+1. Data Collection
+2. Data Cleaning
+3. Data Transformation
+4. Exploratory Data Analysis
+5. Data Visualization
+6. Dashboard Development
+7. Insight Generation
